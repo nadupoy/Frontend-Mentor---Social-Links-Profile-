@@ -44,5 +44,21 @@ const Profile = () => {
   );
 };
 
+const Footer = () => {
+  return (
+    <>
+      <p>
+        Challenge by <a>Frontend Mentor</a>. Coded by <a>Nadupoy</a>.
+      </p>
+    </>
+  );
+};
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<Profile />);
+root.render(
+  <>
+    <Profile />
+
+    <Footer />
+  </>,
+);
