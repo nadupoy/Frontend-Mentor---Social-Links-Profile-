@@ -1,6 +1,8 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
+Frontend Mentor challenges help you improve your coding skills by building
+realistic projects. 
 
 ## Table of contents
 
@@ -10,6 +12,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -33,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-using-reactjs-hVmk8kgBMx)
+- Live Site URL: [Netlify](https://main--gentle-mooncake-a9babf.netlify.app/)
 
 ## My process
 
@@ -43,7 +46,10 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 
+### What I learned
 
+- Encountered a `"build command" failed` error while deploying on Netlify.
+I managed to find a solution [here](https://answers.netlify.com/t/netlify-not-building-command-failed-with-exit-code-1-npm-run-build/16999) after a quick Google search.
 
 ## Author
 
